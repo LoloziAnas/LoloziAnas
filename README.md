@@ -1,6 +1,4 @@
 ### Hi Everyone, I'm Anas 👋
-
-
 #### 💻 Software Engineer
 
 - 🔭 I’m currently working on Android Applications
@@ -10,7 +8,6 @@
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: Linkedin (preferable)
 - 🥅 2021 Goals: Contribute to Open Source projects
-<br/>
 
 #### 🛠️ Languages and Tools:
 <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -25,7 +22,7 @@
 <code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<br/>
+
 #### 📫 Let's Connect:
 [<img align="left" alt="Lolozi Anas | Gmail" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anas.lolozi@usmba.ac.ma?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [<img align="left" alt="Varlackc | Facebook" width="88px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/anas.lolozii/)
