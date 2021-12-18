@@ -1,13 +1,6 @@
 ### Hi Everyone, I'm Anas 👋
-#### 💻 Software Engineer
-
-- 🔭 I’m currently working on Android Applications
-- 🌱 Always learning something new...
-- 👯 Looking for collaboration with others...
-- 🆘 Maybe I can help you...
-- 💬 Ask me about anything, I would be glad to help (if I could ✨).
-- 📫 How to reach me: Linkedin (preferable)
-- 🥅 2021 Goals: Contribute to Open Source projects
+#### Stats
+![stats](https://github-readme-stats.vercel.app/api?username=LoloziAna&count_private=true&hide=contribs&show_icons=true)
 
 #### 🛠️ Languages and Tools:
 <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
