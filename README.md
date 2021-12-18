@@ -1,5 +1,4 @@
 ### Hi Everyone, I'm Anas 👋
-#### Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=LoloziAnas&count_private=true&hide=contribs&show_icons=true)
 
 #### 🛠️ Languages and Tools:
