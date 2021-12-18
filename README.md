@@ -1,6 +1,6 @@
 ### Hi Everyone, I'm Anas 👋
 #### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=LoloziAna&count_private=true&hide=contribs&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=LoloziAnas&count_private=true&hide=contribs&show_icons=true)
 
 #### 🛠️ Languages and Tools:
 <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
