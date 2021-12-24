@@ -68,6 +68,15 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+<img alt="LoloziAnas" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LoloziAnas&count_private=true&hide=contribs&show_icons=true"/>
+
+##
+<!--
+- :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=LoloziAnas)
+-->
+
 ## 
 ### **Let's Connect:**
 
@@ -77,15 +86,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Varlackc | YouTube" width="82px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCUGiocJ67IbIuhHsh1DWLAQ)
 <br />
 
-<img alt="LoloziAnas" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
-<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LoloziAnas&count_private=true&hide=contribs&show_icons=true"/>
-
-
-<!--
-- :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=LoloziAnas)
--->
-
-
+##
 #### 🛠️ Languages and Tools:
 <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
