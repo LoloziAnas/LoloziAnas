@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 
 
-<img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
+<img alt="choubari" align="right" src="https://www.redbubble.com/i/sticker/Code-and-Coffee-by-nanarts/35681993.EJUG5#&gid=1&pid=3" width="100">
 <samp><p align=”justify” style="text-indent:40px;"> I'm <b>Anas LOLOZI</b>, a Backend & Mobile Developer from Morocco 🇲🇦. I'm a highly motivated person, dynamic, persevering and rigorous who creates weekly Coding Content and tweet <a href="https://twitter.com/LoloziAnas">on Instagram</a>. Got a project? Want to discuss? Send me a message there!</p></samp> 
 
 ## 
