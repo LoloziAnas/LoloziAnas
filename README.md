@@ -68,16 +68,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-<img alt="LoloziAnas" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
-<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LoloziAnas&count_private=true&hide=contribs&show_icons=true"/>
-
-##
-<!--
-- :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=LoloziAnas)
--->
-
-## 
 ### **Let's Connect:**
 
 [<img align="left" alt="Lolozi Anas | Gmail" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anas.lolozi@usmba.ac.ma?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
@@ -87,6 +77,16 @@ Here are some ideas to get you started:
 <br />
 
 ##
+<img alt="LoloziAnas" align="left" src="https://img.freepik.com/free-vector/young-black-man-sitting-chair-working-computer-remote-working-home-office-self-isolation-concept-flat-style_285336-1212.jpg?size=626&ext=jpg" width="250">
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LoloziAnas&count_private=true&hide=contribs&show_icons=true"/>
+
+##
+<!--
+- :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=LoloziAnas)
+-->
+
+## 
+
 #### 🛠️ Languages and Tools:
 <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
