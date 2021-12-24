@@ -77,10 +77,7 @@ Here are some ideas to get you started:
 <img alt="LoloziAnas" align="left" src="https://img.freepik.com/free-vector/young-black-man-sitting-chair-working-computer-remote-working-home-office-self-isolation-concept-flat-style_285336-1212.jpg?size=626&ext=jpg" width="250">
 <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LoloziAnas&count_private=true&hide=contribs&show_icons=true"/>
 
-##
 <!--
 - :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=LoloziAnas)
 -->
-## 
-
 
