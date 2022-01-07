@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 
 
 <img alt="" align="right" src="" width="100">
-<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Anas LOLOZI</b>, a Backend & Mobile Developer from Morocco 🇲🇦. I'm a highly motivated person, dynamic, persevering and rigorous who creates weekly Coding Content and tweet <a href="https://twitter.com/LoloziAnas">on Twitter</a>. Got a project? Want to discuss? Send me a message there!</p></samp> 
+<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Anas LOLOZI</b>, a Backend & Mobile Developer from Morocco 🇲🇦. I'm a highly motivated person, dynamic, persevering and rigorous who creates weekly Coding Content and tweet <a href="https://twitter.com/LoloziAnas">on Twitter</a>. Got a project? Want to discuss? Send me a message there! Want to hire me? Contact me <a href="https://www.upwork.com/freelancers/~011e4dd5ab65bf051c">on Upwork</a></p></samp> 
 
 ## 
 
@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 ### **Let's Connect:**
 
 [<img align="left" alt="Lolozi Anas | Gmail" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:anas.lolozi@usmba.ac.ma?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[<img align="left" alt="Varlackc | Facebook" width="88px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/anas.lolozii/)
-[<img align="left" alt="varlackc | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lolozianas/)
-[<img align="left" alt="Varlackc | YouTube" width="82px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCUGiocJ67IbIuhHsh1DWLAQ)
+[<img align="left" alt="Lolozi Anas | Facebook" width="88px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/anas.lolozii/)
+[<img align="left" alt="Lolozi Anas | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lolozianas/)
+[<img align="left" alt="Lolozi Anas | YouTube" width="82px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCUGiocJ67IbIuhHsh1DWLAQ)
 <br />
 
 ##
