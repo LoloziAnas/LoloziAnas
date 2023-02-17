@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img alt="javascript" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
   </a>
  <a href="https://spring.io/">
-<img alt="spring" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" width="40">
+<img alt="spring" src="https://spring.io/img/spring.svg" width="40">
   </a>
  <a href="https://dart.dev/">
 <img alt="dart" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
