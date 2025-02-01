@@ -20,49 +20,64 @@ Here are some ideas to get you started:
 <samp><p align=”justify” style="text-indent:40px;"> I'm <b>Anas LOLOZI</b>, a Backend & Mobile Developer from Morocco 🇲🇦. I'm a highly motivated person, dynamic, persevering and rigorous who creates weekly Coding Content and tweet <a href="https://twitter.com/LoloziAnas">on Twitter</a>. Got a project? Want to discuss? Send me a message there! Want to hire me? Contact me <a href="https://www.upwork.com/freelancers/~011e4dd5ab65bf051c">on Upwork</a></p></samp> 
 
 ## 
-
 ### **Languages and Technologies:**
 <p float="left">
  <a href="https://www.java.com/">
-<img alt="java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40">
+ </a>
+ <a href="https://spring.io/">
+  <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40">
+ </a>
+ <a href="https://hibernate.org/">
+  <img alt="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40">
+ </a>
+ <a href="https://jakarta.ee/">
+  <img alt="JPA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40">
+ </a>
+ <a href="https://maven.apache.org/">
+  <img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40">
+ </a>
+ <a href="https://gradle.org/">
+  <img alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40">
  </a>
  <a href="https://www.android.com/">
-<img alt="android" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
+  <img alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40">
  </a>
  <a href="https://www.python.org/">
-<img alt="python" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="html" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40">
  </a>
- <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="css" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
-  </a>
+ <a href="https://en.wikipedia.org/wiki/CSS">
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40">
+ </a>
  <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="javascript" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
-  </a>
- <a href="https://spring.io/">
-<img alt="spring" src="https://spring.io/img/spring.svg" width="40">
-  </a>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40">
+ </a>
  <a href="https://dart.dev/">
-<img alt="dart" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
-  </a>
+  <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40">
+ </a>
  <a href="https://kotlinlang.org/">
-<img alt="kotlin" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
-  </a>
+  <img alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40">
+ </a>
  <a href="https://git-scm.com/">
-<img alt="git" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a>
- <a href="https://code.visualstudio.com/">
-<img alt="vc" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-  </a>
-<a href="https://www.mysql.com/">
-<img alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40">
-  </a>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40">
+ </a>
+ <a href="https://www.docker.com/">
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40">
+ </a>
+ <a href="https://www.mysql.com/">
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40">
+ </a>
  <a href="https://www.postgresql.org/">
-<img alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40">
-  </a>
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40">
+ </a>
+ <a href="https://kubernetes.io/">
+  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40">
+ </a>
 </p>
+
 
 ### **Let's Connect:**
 
