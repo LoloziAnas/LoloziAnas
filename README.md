@@ -37,9 +37,6 @@ Here are some ideas to get you started:
  <a href="https://maven.apache.org/">
   <img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40">
  </a>
- <a href="https://gradle.org/">
-  <img alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40">
- </a>
  <a href="https://www.android.com/">
   <img alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40">
  </a>
